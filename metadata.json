@@ -1,0 +1,6 @@
+{
+  "name": "Serenity",
+  "description": "A calm, modern therapist practice management dashboard with scheduling, patient directory, session notes, progress tracking, messaging, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
